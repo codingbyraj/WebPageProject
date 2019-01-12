@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Knockout HTF28-JuniorFeathrwt';
+    src: url('/content/fonts/KnockoutHTF28JuniorFeatherwtRegular/KnockoutHTF28JuniorFeatherwtRegular.otf');    
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Knockout HTF29-JuniorLiteweight';
+    src: url('/content/fonts/KnockoutHTF29JuniorLiteweightRegular/KnockoutHTF29JuniorLiteweightRegular.otf');    
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Knockout HTF49-Liteweight';
+    src: url('/content/fonts/KnockoutHTF49LiteweightRegular/KnockoutHTF49LiteweightRegular.otf');    
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Knockout HTF69-FullLiteweight';
+    src: url('/content/fonts/KnockoutHTF69FullLiteweightRegular/KnockoutHTF69FullLiteweightRegular.otf');    
+    font-weight: 800;
+    font-style: italic;
+}
